@@ -7,6 +7,24 @@
     <!--[if (gte IE 6)&(lte IE 8)]>
       <script src="/assets/selectivizr-min.js?body=1" type="text/javascript"></script>
     <![endif]-->
+	  
+	  
+	  
+	  
+	  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106024134-35"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106024134-35');
+</script>
+
+	  
+	  
+	  
+	  
   </head>
   <body>
     
