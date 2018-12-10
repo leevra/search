@@ -18,11 +18,20 @@
   
   
   
-<script type="text/javascript" src="http://www.google.com/cse/query_renderer.js"></script>
-<div id="queries"></div>
-<script src="http://www.google.com/cse/api/partner-pub-9965606273577507/cse/7469229088/queries/js?oe=UTF-8&amp;callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>
+<script>
+  (function() {
+    var cx = 'partner-pub-9965606273577507:7469229088';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
 
- <br> 
+<br>
   
   
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -39,20 +48,20 @@
 
 <br>
 
-<script>
-  (function() {
-    var cx = 'partner-pub-9965606273577507:7469229088';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:searchbox-only></gcse:searchbox-only>
 
-<br>
+
+
+
+
+<script type="text/javascript" src="http://www.google.com/cse/query_renderer.js"></script>
+<div id="queries"></div>
+<script src="http://www.google.com/cse/api/partner-pub-9965606273577507/cse/7469229088/queries/js?oe=UTF-8&amp;callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>
+
+ <br> 
+ 
+ 
+ 
+ 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- a2 -->
