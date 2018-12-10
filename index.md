@@ -13,10 +13,8 @@
 
 	
 <h3>내가 뭘 검색하려고 했지?</h3>
-<br>
-<center>
-  
-  
+
+<center> 
   
 <script>
   (function() {
