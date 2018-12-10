@@ -1,6 +1,6 @@
 <html lang='kr'>
   <head>
-    <title>페이지를 찾을 수 없습니다.</title>
+    <title>내가 뭘 검색하려고 했지?</title>
     <meta charset='utf-8'>
     <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
     <link href="/assets/errors.css?body=1" media="screen" rel="stylesheet" type="text/css" />
@@ -12,7 +12,7 @@
     
 
 	
-<h3>아래에서 원하는 정보를 찾아보세요. </h3>
+<h3>내가 뭘 검색하려고 했지?</h3>
 <br>
 <center>
   
