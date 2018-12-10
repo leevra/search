@@ -66,7 +66,12 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script> 
   
+</center>
+ 
 <br>
+
+ 
+ 
  
 <script>
   (function() {
@@ -80,6 +85,11 @@
   })();
 </script>
 <gcse:searchresults-only></gcse:searchresults-only>
+
+
+
+
+<center>
 
 <br>
 
