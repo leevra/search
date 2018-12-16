@@ -88,9 +88,7 @@
 
 <br>
 
-<script type="text/javascript" src="http://www.google.com/cse/query_renderer.js"></script>
-<div id="queries"></div>
-<script src="http://www.google.com/cse/api/partner-pub-9965606273577507/cse/7469229088/queries/js?oe=UTF-8&amp;callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>
+<a href="https://sitebaksa.leevra.com/" target="_blank">사이트제작 문의</a>
 
 <br>
  
