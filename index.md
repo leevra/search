@@ -88,7 +88,7 @@
 
 <br>
 
-<a href="https://sitebaksa.leevra.com/" target="_blank"><img class="image" src="/images/main.jpg" alt="사이트박사 홈페이지 제작업체"/></a>
+<a href="https://sitebaksa.leevra.com/" target="_blank"><img class="image" src="/main.jpg" alt="사이트박사 홈페이지 제작업체"/></a>
 
 <br>
  
