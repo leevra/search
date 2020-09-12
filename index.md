@@ -63,7 +63,7 @@
 
 
 
-<a href="https://공동구매연구소.leevra.com/" target="_blank"><strong><span style="color: rgb(24, 16, 243); font-size: 18pt;">공동구매연구소</span></strong><br><span style="color: rgb(0, 158, 37);">https://공동구매연구소.leevra.com/</span><p></p></a><p><a href="https://공동구매연구소.leevra.com/" target="_self"><span>​<span><span><span><span style="color: rgb(0, 0, 0);">｜</span></span></span></span><span style="color: rgb(0, 0, 0);">짠돌이, 짠순이들의 최저가 쇼핑 연구소<span><span><span><span style="color: rgb(0, 0, 0);"><br>｜<span><span><span><span style="color: rgb(0, 0, 0);"><strong>단 한 치의 거품도 없이 싸게 살 수 있다!</strong></span></span></span></span></span></span></span></span></span></span></a></p>
+<a href="https://joint-buying.leeseungju.com/" target="_blank"><strong><span style="color: rgb(24, 16, 243); font-size: 18pt;">공동구매연구소</span></strong><br><span style="color: rgb(0, 158, 37);">https://공동구매연구소.leevra.com/</span><p></p></a><p><a href="https://joint-buying.leeseungju.com/" target="_self"><span>​<span><span><span><span style="color: rgb(0, 0, 0);">｜</span></span></span></span><span style="color: rgb(0, 0, 0);">짠돌이, 짠순이들의 최저가 쇼핑 연구소<span><span><span><span style="color: rgb(0, 0, 0);"><br>｜<span><span><span><span style="color: rgb(0, 0, 0);"><strong>단 한 치의 거품도 없이 싸게 살 수 있다!</strong></span></span></span></span></span></span></span></span></span></span></a></p>
 
 
 
@@ -88,7 +88,7 @@
 
 <br>
 
-<a href="https://sitebaksa.leevra.com/" target="_blank"><img class="image" src="/main.jpg" alt="사이트박사 홈페이지 제작업체"/></a>
+
 
 <br>
  
